@@ -33,9 +33,7 @@ Then, using the code in utils, you can then create, using the format you want, t
 -->
 
 ### Data in YOLO format
-You can get the ITA and USA datasets from:
-- [ITA (iid data)](https://windu.micc.unifi.it/datasets/surland/iid)
-- [USA (ood data)](https://windu.micc.unifi.it/datasets/surland/ood)
+You can get the ITA and USA datasets from [MICC dataset-SULAND](https://windu.micc.unifi.it/datasets/SULAND)
 
 These are the IID and OOD data, respectivelly. We advise you to download them (or link them with a sym-link) into the two folders:
 ```tree
